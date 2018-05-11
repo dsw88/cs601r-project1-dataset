@@ -1,0 +1,2 @@
+recursive-include birds *.jpg
+recursive-include butterflies *.png
