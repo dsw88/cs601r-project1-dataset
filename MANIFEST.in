@@ -1,2 +1,2 @@
-recursive-include birds *.jpg
-recursive-include butterflies *.png
+recursive-include dataset\birds *
+recursive-include dataset\butterflies *
